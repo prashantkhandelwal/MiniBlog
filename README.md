@@ -1,4 +1,4 @@
-# MiniBlog
+# MiniBlog For Demo Only
 
 A blogging engine based on HTML5 and ASP.NET.
 
